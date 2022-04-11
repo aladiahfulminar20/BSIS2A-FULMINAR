@@ -1,3 +1,7 @@
 YUN OH
 
+<<<<<<< HEAD
 HATDOG HATDOG 1
+=======
+HATDOG HATDOG
+>>>>>>> 23576a2c0bc0ba011624beca7266278d844ce8ff
